@@ -1,5 +1,5 @@
 ### Hi there 👋
-Connect with me on these platforms:
+Happy to connect over these platforms:
 
 <a href="https://www.youtube.com/channel/UCYlOdJBJQN4c7k25uzwSwJA"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/dheeraj-rathee-phd-2a816297/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Dheeraj-Rathee"><img src="https://www.karriereletter.de/wp-content/uploads/2015/11/RG_Logo.png" alt="drawing" width="75"/>
 <!--
