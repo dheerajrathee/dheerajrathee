@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 - I'm Dheeraj Rathee
+
+A curious learner and a passionate implementer in the field of AI and Data Science. I keep looking for new possibilities to test the power of AI in different application areas. 
+
+Currently working on several innovative projects wihtin healthcare domain under my role of AI Data Scientist with Provide CIC (a not-for-profit Social Enterprise predominantly delivering healthcare services for NHS and LA across Essex, United Kingdom) and Univeristy of Essex.  
+
+I have 7 years of experience in the domains of AI/ML and Data Science. Currently, I work as AI Data Scientist for a healthcare service provider. My job role involves developing a end-to-end software solution through an AI and data-driven recommendation system. It is real fun to work within an interdisciplinary team having people from psychology, healthcare and business development. 
+
+My favourite pastime: reading (online blogs, books), watching Netflix, and playing with my super brainy daughter :). 
 Happy to connect over these platforms:
 
 <a href="https://www.youtube.com/channel/UCYlOdJBJQN4c7k25uzwSwJA"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/dheeraj-rathee-phd-2a816297/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Dheeraj-Rathee"><img src="https://www.karriereletter.de/wp-content/uploads/2015/11/RG_Logo.png" alt="drawing" width="75"/>
