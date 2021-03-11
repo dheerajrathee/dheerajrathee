@@ -2,7 +2,7 @@
 
 A curious learner and a passionate implementer in the field of AI and Data Science. I keep looking for new possibilities to test the power of AI in different application areas. 
 
-Currently working on several innovative projects wihtin healthcare domain under my role of AI Data Scientist with Provide CIC (a not-for-profit Social Enterprise predominantly delivering healthcare services for NHS and LA across Essex, United Kingdom) and Univeristy of Essex. It is real fun to work within an interdisciplinary team having people from psychology, academics, healthcare and business development.   
+Currently working on several innovative projects within healthcare field under my role of AI Data Scientist with Provide CIC (a not-for-profit Social Enterprise predominantly delivering healthcare services for NHS and LA across Essex, United Kingdom) and Univeristy of Essex. It is real fun to work within an interdisciplinary team having people from psychology, academics, healthcare and business development.   
 
 I have 7 years of experience in the domains of AI/ML and Data Science. Early phase of my AI and DA journey was majorly focused on Reasearch and Developement while I was working in academics and then pursing my PhD. For the last three years, I have been working towards developing and deploying AI and DA based software products for the healthcare domain. 
 
