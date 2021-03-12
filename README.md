@@ -2,9 +2,9 @@
 
 A curious learner and a passionate implementer in the field of AI and Data Science. I keep looking for new possibilities to test the power of AI in different application areas. 
 
-Currently working on several innovative projects within healthcare field under my role of AI Data Scientist with Provide CIC (a not-for-profit Social Enterprise predominantly delivering healthcare services for NHS and LA across Essex, United Kingdom) and Univeristy of Essex, Colchester, United Kingdom. It is real fun to work within an interdisciplinary team having people from psychology, academics, healthcare and business development.   
+Currently working on several innovative projects within healthcare field under my role of AI Data Scientist with <a href="https://www.provide.org.uk/" target="_blank">Provide CIC</a> (a not-for-profit Social Enterprise predominantly delivering healthcare services for NHS and LA across Essex, United Kingdom) and <a href="https://www.essex.ac.uk/" target="_blank">University of Essex</a>, Colchester, United Kingdom. It is real fun to work within an interdisciplinary team having people from psychology, academics, healthcare and business development.   
 
-I have 7 years of experience in the domains of AI/ML and Data Science. Early phase of my AI and DA journey was majorly focused on Reasearch and Developement while I was working in academics and then pursing my PhD. For the last three years, I have been working towards developing and deploying AI and DA based software products for the healthcare domain. 
+I have 7 years of experience in the domains of AI/ML and Data Science. Early phase of my AI and DA journey was majorly focused on Reasearch and Teaching while working in academics field (20011-2015) and then moved to core Reaearch and Development while pursing my PhD at <a href="https://www.ulster.ac.uk/departments/dvc/cebe/school-of-computing-engineering-and-intelligent-systems" target="_blank">School of Computing and Intelligent Systems</a>, <a href="https://www.ulster.ac.uk/" target="_blank">Ulster University</a>  (2015-2018). For the last three years, I further moved to developing and deploying AI and DA based Enterprise Software Products for the healthcare domain. 
 
 My favourite pastime: reading (online blogs, books), watching Netflix, and playing with my super brainy daughter :). 
 
