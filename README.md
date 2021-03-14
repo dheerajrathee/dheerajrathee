@@ -1,4 +1,4 @@
-### Hi there 👋 - I'm Dheeraj Rathee
+### Hi there 👋 - I'm Dr Dheeraj Rathee
 
 A curious learner and a passionate implementer in the field of AI and Data Science. I keep looking for new possibilities to test the power of AI in different application areas. 
 
