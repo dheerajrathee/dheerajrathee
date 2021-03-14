@@ -1,6 +1,6 @@
 ### Hi there 👋 - I'm Dr Dheeraj Rathee
 
-A curious learner and a passionate implementer in the field of AI and Data Science. I keep looking for new possibilities to test the power of AI in different application areas. 
+A curious learner and a passionate implementer in the field of AI and Data Science. I keep looking for new possibilities to test the power of AI in different application areas within healthcare. 
 
 Currently working on several innovative projects within healthcare field under my role of AI Data Scientist with <a href="https://www.provide.org.uk/" target="_blank">Provide CIC</a> (a not-for-profit Social Enterprise predominantly delivering healthcare services for NHS and LA across Essex, United Kingdom) and <a href="https://www.essex.ac.uk/" target="_blank">University of Essex</a>, Colchester, United Kingdom. It is real fun to work within an interdisciplinary team having people from psychology, academics, healthcare and business development.   
 
