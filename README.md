@@ -6,7 +6,7 @@ Currently working on several innovative projects within healthcare field under m
 
 I have 7 years of experience in the domains of AI/ML and Data Science. Early phase of my AI and DA journey was majorly focused on Reasearch and Teaching while working in various academic positions (2011-2015) and then moved to core Research and Development while pursing my PhD at <a href="https://www.ulster.ac.uk/departments/dvc/cebe/school-of-computing-engineering-and-intelligent-systems" target="_blank">School of Computing and Intelligent Systems</a>, <a href="https://www.ulster.ac.uk/" target="_blank">Ulster University</a>  (2015-2018). I graduated in early 2019 with my work published in several peer-reviewed journals. For the last three years, I have been involved in developing and deploying AI and DA based Enterprise Software Solutions for the healthcare domain working with a community interest company - Provide CIC and the University of Essex. 
 
-My favourite pastime: reading (online blogs, books), watching Netflix, and spending time with my super girls :). 
+My favourite pastime: reading (online blogs, books), watching Netflix, and spending time with my two supergirls :). 
 
 Happy to connect over these platforms:
 
