@@ -6,19 +6,19 @@ I am passionate about quality product development and implementing cutting-edge 
 
 Here are some key highlights about my professional journey:
 
-# Proven leadership experience and successful history of delivery of scalable, AI-driven digital platforms for healthcare providers in the UK. 
+#### Proven leadership experience and successful history of delivery of scalable, AI-driven digital platforms for healthcare providers in the UK. 
 
-# Experience in building cross-functional, lean, or agile technology teams using internal and external, on and offshore resources from 1-2 to 50 strong.
+#### Experience in building cross-functional, lean, or agile technology teams using internal and external, on and offshore resources from 1-2 to 50 strong.
 
-# Deep understanding of data protection and privacy compliance requirements. 
+#### Deep understanding of data protection and privacy compliance requirements. 
 
-# Effective management of technology budgets and time frames
+#### Effective management of technology budgets and time frames
 
-# Extensive knowledge of Software Design and Development, Solution Architecture, and Project Management methodologies coupled with organisation and planning skills to ensure on-time delivery, at reduced cost and high quality. 
+#### Extensive knowledge of Software Design and Development, Solution Architecture, and Project Management methodologies coupled with organisation and planning skills to ensure on-time delivery, at reduced cost and high quality. 
 
-# Experience in contributing to the funding rounds
+#### Experience in contributing to the funding rounds
 
-# Connecting and engaging with key tech stakeholders, tech partners, and communities
+#### Connecting and engaging with key tech stakeholders, tech partners, and communities
 
 My favourite pastime: reading (online blogs, books), watching Netflix, and spending time with my two supergirls :). 
 
