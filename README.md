@@ -2,9 +2,23 @@
 
 A curious learner and a passionate implementer in the field of AI and Data Science. I keep looking for new possibilities to test the power of AI in different application areas within healthcare. 
 
-Currently working on several innovative projects within healthcare field under my role of AI Data Scientist with <a href="https://www.provide.org.uk/" target="_blank">Provide CIC</a> (a not-for-profit Social Enterprise predominantly delivering healthcare services for NHS and LA across Essex, United Kingdom) and <a href="https://www.essex.ac.uk/" target="_blank">University of Essex</a>, Colchester, United Kingdom. It is real fun to work within an interdisciplinary team having people from psychology, academics, healthcare and business development.   
+I am passionate about quality product development and implementing cutting-edge technologies from the fields of AI and Data Analytics to enhance product USP and value to customers. I got 8+ years of experience in Research and Development in various technology fields and am always up to learn, teach, inspire, and be inspired by talented teams and interesting businesses that foster innovation. I am the recipient of the Global Exceptional Talent endorsement for AI and Data Analytics from Tech Nation. 
 
-I have 7 years of experience in the domains of AI/ML and Data Science. Early phase of my AI and DA journey was majorly focused on Reasearch and Teaching while working in various academic positions (2011-2015) and then moved to core Research and Development while pursing my PhD at <a href="https://www.ulster.ac.uk/departments/dvc/cebe/school-of-computing-engineering-and-intelligent-systems" target="_blank">School of Computing and Intelligent Systems</a>, <a href="https://www.ulster.ac.uk/" target="_blank">Ulster University</a>  (2015-2018). I graduated in early 2019 with my work published in several peer-reviewed journals. For the last three years, I have been involved in developing and deploying AI and DA based Enterprise Software Solutions for the healthcare domain.
+Here are some key highlights about my professional journey:
+
+# Proven leadership experience and successful history of delivery of scalable, AI-driven digital platforms for healthcare providers in the UK. 
+
+# Experience in building cross-functional, lean, or agile technology teams using internal and external, on and offshore resources from 1-2 to 50 strong.
+
+# Deep understanding of data protection and privacy compliance requirements. 
+
+# Effective management of technology budgets and time frames
+
+# Extensive knowledge of Software Design and Development, Solution Architecture, and Project Management methodologies coupled with organisation and planning skills to ensure on-time delivery, at reduced cost and high quality. 
+
+# Experience in contributing to the funding rounds
+
+# Connecting and engaging with key tech stakeholders, tech partners, and communities
 
 My favourite pastime: reading (online blogs, books), watching Netflix, and spending time with my two supergirls :). 
 
@@ -14,14 +28,3 @@ Happy to connect over these platforms:
 <!--
 **dheerajrathee/dheerajrathee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
